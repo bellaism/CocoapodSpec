@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
                                   LICENSE
                    }
   s.author       = "91"
-  s.source       = { :http => "https://github.com/itugo/CocoapodData/raw/ef6157045147002fb8251f704a1b11b42a03cebe/NdAnalytics.zip" }
+  s.source       = { :http => "https://github.com/itugo/CocoapodData/raw/9b75e80ee1e747c85a7a2be45a2f491760f2b610/NdAnalytics.zip" }
 
   s.platform     = :ios, '4.0'
   s.source_files = '**/*.h'
